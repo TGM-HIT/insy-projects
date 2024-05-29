@@ -21,5 +21,5 @@ Die lokal gespeicherten Submodules können mit `git submodule update --recursive
 | 2023-06-06 | List Leander 3CHIT (2022/23)       | [DUI API](https://github.com/leanderlist/dui-api)                                 | **EKv** for using APIs, Docker, Docker Compose, Flask and MariaDB |
 | 2023-06-06 | Ribinin Nathaniel 3CHIT (2022/23)  | [DUI API](https://github.com/leanderlist/dui-api)                                 | **EKv** for using APIs, Docker, Docker Compose, Flask and MariaDB | 
 |2023-06-16|Abdulkarim Amadeus 3CHIT (2022/23)|[ProWiki](https://github.com/aaabdulkarim/ProWiki)|**EKv** for using API, Flask, Front/Backend|
-| 2023-0     | HIT (2022/23)                      | []()                                                                              | **EKv** for using                                                 |
+| 2024-05-25     | Christian Parushev 3CHIT (2023/24)                      | [Swapp Bike Shop](https://github.com/cparushev/DatenbankITP)                                                                              | **EKv** for using    Datenbank Modellierung                                             |
 | 2023-0     | HIT (2022/23)                      | []()                                                                              | **EKv** for using                                                 |
